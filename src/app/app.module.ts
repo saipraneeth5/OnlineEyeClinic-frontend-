@@ -8,7 +8,6 @@ import { PatientComponent } from './module/patient/patient.component';
 import { ReportComponent } from './module/report/report.component';
 import { AppointmentComponent } from './module/appointment/appointment.component';
 import { SpectaclesComponent } from './module/spectacles/spectacles.component';
-import { TestComponent } from './module/test/test.component';
 import { HomepageComponent } from './component/homepage/homepage.component';
 import { GalleryComponent } from './component/gallery/gallery.component';
 import { TestsComponent } from './module/tests/tests.component';
@@ -29,7 +28,6 @@ import { TestsServiceComponent } from './service/tests-service/tests-service.com
     ReportComponent,
     AppointmentComponent,
     SpectaclesComponent,
-    TestComponent,
     HomepageComponent,
     GalleryComponent,
     TestsComponent,
